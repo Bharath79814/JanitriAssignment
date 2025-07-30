@@ -66,6 +66,7 @@ public class LoginPage {
 		}
 		return loginButton.isEnabled();
 	}
+	//verify error message is displayed
 
 	public boolean isErrorMessageDispalyed() {
 
