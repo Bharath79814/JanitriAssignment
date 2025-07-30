@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-30T16:09:38 IST" name="Default suite" finished-at="2025-07-30T16:10:12 IST" duration-ms="34261">
+    <groups>
+    </groups>
+    <test started-at="2025-07-30T16:09:38 IST" name="Default test" finished-at="2025-07-30T16:10:12 IST" duration-ms="34261">
+      <class name="testcase.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcase.LoginTest@169e6180]" started-at="2025-07-30T16:09:38 IST" name="setUp" finished-at="2025-07-30T16:09:47 IST" duration-ms="8956" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testInvalidLoginShowErrorMsg()[pri:0, instance:testcase.LoginTest@169e6180]" started-at="2025-07-30T16:09:47 IST" name="testInvalidLoginShowErrorMsg" finished-at="2025-07-30T16:09:52 IST" duration-ms="5497" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidLoginShowErrorMsg -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcase.LoginTest@169e6180]" started-at="2025-07-30T16:09:52 IST" name="tearDown" finished-at="2025-07-30T16:09:53 IST" duration-ms="1127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcase.LoginTest@169e6180]" started-at="2025-07-30T16:09:53 IST" name="setUp" finished-at="2025-07-30T16:10:00 IST" duration-ms="6866" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLoginButtonDisabledWhenFieldAreEmptys()[pri:0, instance:testcase.LoginTest@169e6180]" started-at="2025-07-30T16:10:00 IST" name="testLoginButtonDisabledWhenFieldAreEmptys" finished-at="2025-07-30T16:10:03 IST" duration-ms="2319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginButtonDisabledWhenFieldAreEmptys -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcase.LoginTest@169e6180]" started-at="2025-07-30T16:10:03 IST" name="tearDown" finished-at="2025-07-30T16:10:04 IST" duration-ms="1427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcase.LoginTest@169e6180]" started-at="2025-07-30T16:10:04 IST" name="setUp" finished-at="2025-07-30T16:10:09 IST" duration-ms="5246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testPasswordMaskedbutton()[pri:0, instance:testcase.LoginTest@169e6180]" started-at="2025-07-30T16:10:09 IST" name="testPasswordMaskedbutton" finished-at="2025-07-30T16:10:11 IST" duration-ms="2105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPasswordMaskedbutton -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcase.LoginTest@169e6180]" started-at="2025-07-30T16:10:11 IST" name="tearDown" finished-at="2025-07-30T16:10:12 IST" duration-ms="625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
