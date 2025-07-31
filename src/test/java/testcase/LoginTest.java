@@ -16,8 +16,6 @@ public class LoginTest extends BaseClass {
 	@Test
 	public void testLoginButtonDisabledWhenFieldAreEmptys() {
 		LoginPage login = new LoginPage(driver);
-		login.loginButton();
-		login.isLoginDisabled();
 		Assert.assertTrue(login.isLoginDisabled(), "loginbutton is disabled");
 	}
 
